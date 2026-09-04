@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jigyasa0601/Jigyasa0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jigyasa 👋
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+%7C+Networking+%7C+Scapy;Learning+Ethical+Hacking)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### 👩‍💻 About Me
+> Aspiring Cybersecurity Enthusiast | Self-learner
+
+- 🔭 Currently working on: **Building minimal cybersecurity projects**
+- 🌱 Learning: **Python modules**
+- 🎯 Goal: **Building practical security tools while learning**
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/jigyasa-maurya-504233282?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
