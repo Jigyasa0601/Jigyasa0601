@@ -2,7 +2,7 @@
 
 # Hi, I'm Jigyasa 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+%7C+Networking+%7C+Scapy;Learning+Ethical+Hacking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+%7C+Networking+%7C+Libraries;Learning+Ethical+Hacking)](https://git.io/typing-svg)
 
 </div>
 
